@@ -1,5 +1,7 @@
 # Chronometer for animation
 
+help to get the timing of movements and action to be transfer to animatic or animation
+
 **ABOUT THE CODE**
 
 this code is based on examples provide by Adafruit
