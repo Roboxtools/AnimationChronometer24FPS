@@ -2,8 +2,7 @@
 
 ![image01](https://github.com/Roboxtools/AnimationChronometer24FPS/blob/master/IMG_9471.JPG?raw=true)
 
-help to get the timing of movements and action to be transfer to animatic or animation
-it count time in FPS min:sec:fps and also total frames
+count time in FPS min:sec:fps and also total frames.
 
 **ABOUT THE CODE**
 
