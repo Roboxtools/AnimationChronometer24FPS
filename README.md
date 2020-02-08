@@ -1,14 +1,8 @@
 # Chronometer for animation
 
-
-![image01](?raw=true)
-
-![image02](?raw=true)
-
-
 **ABOUT THE CODE**
 
-this code is based on examples provide by Adafruit for a Bluetooth keyboard 
+this code is based on examples provide by Adafruit
 Adafruit-Feather-nRF52- Bluefruit-nRF52832
 
 it uses pins
