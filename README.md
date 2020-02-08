@@ -1,5 +1,7 @@
 # Chronometer for animation
 
+![image01](https://github.com/Roboxtools/Art_tools/blob/master/image03.jpg?raw=true)
+
 help to get the timing of movements and action to be transfer to animatic or animation
 it count time in FPS min:sec:fps and also total frames
 
