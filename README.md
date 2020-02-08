@@ -2,7 +2,7 @@
 
 ![image01](https://github.com/Roboxtools/AnimationChronometer24FPS/blob/master/IMG_9471.JPG?raw=true)
 
-count time in FPS min:sec:fps and also total frames.
+count time in 24FPS min:sec:fps 
 
 **ABOUT THE CODE**
 
