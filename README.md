@@ -1,6 +1,7 @@
 # Chronometer for animation
 
 help to get the timing of movements and action to be transfer to animatic or animation
+it count time in FPS min:sec:fps and also total frames
 
 **ABOUT THE CODE**
 
