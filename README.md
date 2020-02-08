@@ -29,4 +29,4 @@ Adafruit-Feather-nRF52 arduino
 Battery
 any rechargable battery over 3.7volts 
 
-//[![](http://img.youtube.com/vi/9TROEPfZXaY/0.jpg)](http://www.youtube.com/watch?v=9TROEPfZXaY "")
+
